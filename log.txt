@@ -1,0 +1,5 @@
+Built support triage agent using Python.
+Implemented preprocessing, classification, TF-IDF retrieval.
+Added escalation logic for low confidence and high-risk issues.
+Improved classifier and response generation.
+Tested system and generated final output successfully.
